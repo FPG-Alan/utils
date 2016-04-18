@@ -1,2 +1,2 @@
 # Utils
-*for some util function
+for some util function
